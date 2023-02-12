@@ -3,7 +3,7 @@
 > Uma empresa que oferece serviço de gateway de pagamentos precisa avaliar a legitimidade das transações do seu volume. Para tal, é desenvolvido um fluxo de ML utilizando princípios da engenharia de dados e Pyspark para obter dados de distintas fontes. O modelo de ML é construído utilizando o algoritmo de aprendizagem supervisionada Random Forest; além do deploy por meio de API Flask. 
 
 # ML Workflow
-<img src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" data-canonical-src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" width="600" />
+<img src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" data-canonical-src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" width="830" height="600"/>
 
 1. Desenvolvimento da pipeline de dados (ETL) utilizando o Pyspark
 2. Carregamento dos dados que serão utilizados pelo modelo

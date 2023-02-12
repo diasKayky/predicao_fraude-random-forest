@@ -1,6 +1,6 @@
 # Predição de Fraude no Cartão de Crédito
 
-> Uma empresa que oferece serviço de gateway de pagamentos precisa avaliar a qualidade das transações do seu volume. Para tal, é desenvolvido um fluxo de ML utilizando principios da engenharia de dados e Pyspark para obter dados de distintas fontes. O modelo de ML é construído utilizando o algoritmo de aprendizagem supervisionada Random Forest; além do deploy, construído por meio de API Flask. 
+> Uma empresa que oferece serviço de gateway de pagamentos precisa avaliar a legitimidade das transações do seu volume. Para tal, é desenvolvido um fluxo de ML utilizando principios da engenharia de dados e Pyspark para obter dados de distintas fontes. O modelo de ML é construído utilizando o algoritmo de aprendizagem supervisionada Random Forest; além do deploy, construído por meio de API Flask. 
 
 # ML Workflow
 <img src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" data-canonical-src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" width="600" />

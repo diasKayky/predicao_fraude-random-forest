@@ -14,9 +14,9 @@
 # Problemas e dificuldades
 
 1. Treinar o modelo utilizando o `final_dataset` devido ao modesto computador utilizado 
-  i. Solução: treinar em apenas um dos datasets.
+    1. Solução: treinar em apenas um dos datasets.
 2. Fazer upload dos datasets massivos para o Github.
-  ii. Solução: criar o arquivo `datasets_links`.
+    1. Solução: criar o arquivo `datasets_links`.
 
 
 ##  💻 Desenvolvedor

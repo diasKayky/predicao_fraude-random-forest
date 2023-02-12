@@ -6,7 +6,7 @@
 <img src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" data-canonical-src="https://github.com/diasKayky/predicao_fraude-random-forest/blob/main/project_structure.png" width="600" />
 
 1. Desenvolvimento da pipeline de dados (ETL) utilizando o Pyspark
-2. Salvamentos dos dados que serão utilizados pelo modelo
+2. Carregamento dos dados que serão utilizados pelo modelo
 3. Treinamento e avaliação do modelo de Random Forest
 4. Serialização do modelo
 5. Deploy do modelo via API Flask

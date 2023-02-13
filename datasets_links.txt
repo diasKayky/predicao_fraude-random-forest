@@ -1,2 +1,0 @@
-Dataset1 = https://www.kaggle.com/datasets/sanskar457/fraud-transaction-detection
-Dataset2 = https://www.kaggle.com/datasets/ealaxi/paysim1
